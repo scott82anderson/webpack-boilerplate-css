@@ -1,4 +1,4 @@
-# Webpack Boilerplace for Vanilla JS with CSS
+# Webpack Boilerplate for Vanilla JS with CSS
 
 This is a simple boilerplate for building a Vanilla JS web application. It might be useful for small PoCs or as a JS sandbox environment.  
 It includes Babel for compiling modern Javascript and Webpack loaders to publish your CSS and JS bundles into an index.html in `/public`.  
